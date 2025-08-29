@@ -13,3 +13,11 @@ I hope you love it!
 ## Who doesn't love a little visuals?
 
 ## BOM (Cuz otherwise how are you gonna make the damn thing?!)
+
+| BOM Name     | Quantity |
+| ------------ | -------- |
+| switches     | 15       |
+| diode        | 15       |
+| XIAO-RP2040  | 1        |
+| encoder      | 1        |
+| keycap-white | 15       |
