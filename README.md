@@ -11,15 +11,16 @@ It is also VERY slimmed down then the hungus and chungus of the FreePad V1
 I hope you love it!
 
 ## Who doesn't love a little visuals?
-![](./Images/Screenshot20%2025-08-2920%215202.png)
-![](./Images/Screenshot20%2025-08-2920%215208.png)
-![](./Images/Screenshot20%2025-08-2920%215243.png)
-![](./Images/Screenshot20%2025-08-2920%215254.png)
-![](./Images/Screenshot20%2025-08-2920%215301.png)
-![](./Images/Screenshot20%2025-08-2920%215322.png)
-![](./Images/Screenshot20%2025-08-2920%215333.png)
-![](./Images/Screenshot20%2025-08-2920%215437.png)
-![](./Images/Screenshot20%2025-08-2920%215546.png)
+![](./Images/Screenshot%202025-08-29%20215202.png)
+![](./Images/Screenshot%202025-08-29%20215208.png)
+![](./Images/Screenshot%202025-08-29%20215243.png)
+![](./Images/Screenshot%202025-08-29%20215254.png)
+![](./Images/Screenshot%202025-08-29%20215301.png)
+![](./Images/Screenshot%202025-08-29%20215322.png)
+![](./Images/Screenshot%202025-08-29%20215333.png)
+![](./Images/Screenshot%202025-08-29%20215437.png)
+![](./Images/Screenshot%202025-08-29%20215546.png)
+
 
 ## BOM (Cuz otherwise how are you gonna make the damn thing?!)
 
