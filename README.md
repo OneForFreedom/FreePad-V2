@@ -9,3 +9,7 @@ You may ask whats v1? well v1 was a 5x3 layout with 3 of the 15 switches being a
 It is also VERY slimmed down then the hungus and chungus of the FreePad V1
 
 I hope you love it!
+
+## Who doesn't love a little visuals?
+
+## BOM (Cuz otherwise how are you gonna make the damn thing?!)
